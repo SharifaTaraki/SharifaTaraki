@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sharifa Taraki
+## Hi 👋 I'm Sharifa Taraki
 
 🎮 **Game Developer & Instructor** | Creator of **Deadly Domain** | Unreal Engine 5 & Python  
 
@@ -13,7 +13,7 @@
 
 ### ⚡ Achievements
 - Created **Deadly Domain Multiplayer Shooter Game** on Epic Games  
-- Developed **3 Unreal Engine 5 courses** and currently creating a Python course  
+- Developed **3 Unreal Engine 5 courses** 
 - Completed **~20 Python projects**  
 - Instructor for **700+ students** with 117 reviews on Udemy  
 
