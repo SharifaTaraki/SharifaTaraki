@@ -30,12 +30,12 @@
 |-----------------|-------|
 | Unreal Engine 5 (Blueprints) | ⭐⭐⭐⭐⭐ 90% |
 | Python | ⭐⭐⭐⭐⭐ 95% |
-| C++ | ⭐⭐⭐ 20% |
+| C++ | ⭐⭐⭐ 40% |
 | Blender (3D Modeling & Animation) | ⭐⭐⭐⭐ 70% |
 | Adobe After Effects | ⭐⭐⭐⭐ 30% |
 | Adobe Premiere Pro | ⭐⭐⭐⭐ 98% |
 | Adobe Audition | ⭐⭐⭐ 80% |
-| Adobe Photoshop | ⭐⭐⭐ 60% |
+| Adobe Photoshop | ⭐⭐⭐ 80% |
 | Microsoft Office | ⭐⭐⭐⭐ 98% |
 | Windows 10/11 | ⭐⭐⭐⭐ 98% |
 | Internet Usage | ⭐⭐⭐⭐⭐ 95% |
